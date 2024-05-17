@@ -17,6 +17,17 @@ const LocaleLayout = ({
             {children}
           </div>
         </div>
+        <script>
+          window.difyChatbotConfig = {
+            token: 'cIyf6v62Jy5FK8x6',
+            baseUrl: 'http://54.168.135.157'
+          }
+          </script>
+          <script
+          src="http://54.168.135.157/embed.min.js"
+          id="cIyf6v62Jy5FK8x6"
+          defer>
+        </script>
       </body>
     </html>
   )
